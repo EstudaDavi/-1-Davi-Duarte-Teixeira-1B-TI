@@ -5,6 +5,7 @@ box-sizing: border-box;
 }
 body{
     color: rgb(72, 56, 56);
+    background-color: rgb(218, 208, 197);
 }
 h1{
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
