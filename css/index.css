@@ -1,0 +1,38 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+    color: rgb(72, 56, 56);
+}
+h1{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 2rem;
+    background-color: rgb(138, 118, 118);
+    text-align: center;
+    margin-top: 2%;
+}
+img{
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 2%;
+    margin-right: 35%;
+}
+h3{
+    text-align: center;
+    background-color: rgb(183, 179, 173);
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    margin-bottom: 1%;
+}
+p{
+    text-align: center;
+    background-color: rgb(212, 212, 212);
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+iframe{
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 2%;
+    margin-right: 35%;
+}
